@@ -1,0 +1,12 @@
+.bi-check-circle{
+  font-size: 30px;
+  color: black;
+  position: relative;
+  left: -200px;
+  top: 40px;
+}
+.mainbtn{
+ position: absolute;
+ top: 100px;
+ left: 600px;
+}
